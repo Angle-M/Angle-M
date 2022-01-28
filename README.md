@@ -6,7 +6,7 @@
 
 - 📫 How to reach me 
 Email: aim1310@icloud.com
-Discord:Party!? Tsuchinoko?
+Discord:Party!? Tsuchinoko?#0013
 Twitter: Part-Time Chaos Demon
 
 <!---
