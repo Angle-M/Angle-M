@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Angle-M Or Toad if you see me on discord
+- 👋 Hi, I’m @Angle-M Or Void Frog if you see me on discord
 
 - 👀 I’m interested in Jrpgs, Anime, Yu-Gi-Oh and Penguins
 
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning PHP and Re-learning Python
 
 - 📫 How to reach me 
 Email: aim1310@icloud.com
-Discord:Party!? Tsuchinoko?#0013
+Discord:Pending
 Twitter: Part-Time Chaos Demon
 
 <!---
