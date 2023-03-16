@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Jrpgs, Anime, Yu-Gi-Oh and Penguins
 
-- 🌱 I’m currently learning PHP and Re-learning Python
+- 🌱 I’m currently re-learning Python,node.js and typescript
 
 - 📫 How to reach me 
 Email: aim1310@icloud.com
