@@ -6,8 +6,7 @@
 
 - 📫 How to reach me 
 Email: aim1310@icloud.com
-Discord:Pending
-Twitter: Part-Time Chaos Demon
+Discord:
 
 <!---
 Angle-M/Angle-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
