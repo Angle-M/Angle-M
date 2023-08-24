@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @Angle-M Or Void Frog if you see me on discord
+- 👋 Hi, I’m Angel Munoz
 
 - 👀 I’m interested in Jrpgs, Anime, Yu-Gi-Oh and Penguins
 
-- 🌱 I’m currently re-learning Python,node.js and typescript
+- 🌱 I’m currently re-learning node.js, typescript and dart
 
 - 📫 How to reach me 
-Email: aim1310@icloud.com
-Discord:
-
-<!---
-Angle-M/Angle-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: aim1310@icloud.com or munoza2@mymail.nku.edu
+Discord: void.frog
