@@ -10,4 +10,4 @@ Discord: void.frog
 
 ###Test image
 
-[Screenshot 2023-10-21 155418.png](image)
+![image](Screenshot 2023-10-21 155418.png)
