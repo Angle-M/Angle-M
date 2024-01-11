@@ -10,4 +10,4 @@ Discord: void.frog
 
 ###Test image
 
-![test](Screenshot 2023-10-21 155418.png](https://github.com/Angle-M/Angle-M/blob/main/Screenshot%202023-10-21%20155418.png)
+![test](https://github.com/Angle-M/Angle-M/blob/main/Screenshot%202023-10-21%20155418.png)
