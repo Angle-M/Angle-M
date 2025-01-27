@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Angel Munoz
 
-- 👀 I’m interested in Jrpgs, Anime, Yu-Gi-Oh and Penguins
-
-- 🌱 I’m currently re-learning node.js, typescript and dart
+- 🌱 I’m currently learning Rust, Go and Laravel
 
 - 📫 How to reach me 
 - Email: aim1310@icloud.com or munoza2@mymail.nku.edu
